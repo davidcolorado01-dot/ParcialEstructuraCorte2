@@ -23,7 +23,7 @@ class Pila {
 
 let pila = new Pila();
 
-pila.agregar({ nombre: "Juliana", edad: 38 });
+pila.agregar({ nombre: "Juliana", edad: 28 });
 pila.agregar({ nombre: "Andres", edad: 18 });
 pila.mostrar();
 pila.eliminar();
