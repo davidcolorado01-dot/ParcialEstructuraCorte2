@@ -1,1 +1,1 @@
-¡[ Parcial ](GCat.png)
+![ ](GCat.png)
