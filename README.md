@@ -1,0 +1,1 @@
+¡[ Parcial ](https://static.vecteezy.com/system/resources/previews/067/823/075/non_2x/smiling-ginger-cat-giving-thumbs-up-on-transparent-background-png.png)
